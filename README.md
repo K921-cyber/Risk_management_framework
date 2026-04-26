@@ -79,7 +79,7 @@ This project explores how cybersecurity principles and RMF methodology are appli
 
 **KABIR CHAND**  
 💻 Cybersecurity Enthusiast | SOC Analyst in Training  
-📫 [GitHub Profile](https://github.com/k921-cyber)  
+📫 [Github](https://github.com/k921-cyber)  
 🌐 Exploring Cyber Defense, Risk Analysis & Healthcare Security  
 
 ---
